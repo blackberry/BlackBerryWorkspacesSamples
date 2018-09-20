@@ -1,0 +1,12 @@
+{
+  "name": "TestRN",
+  "displayName": "Workspaces RN Demo",
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "splash": {
+      "image": "assets/splash.png",
+      "backgroundColor": "#000000",
+      "resizeMode": "cover"
+    }
+  }
+}
